@@ -1,3 +1,6 @@
+# O programa deve calcular o maior e o menor valor de faturamento em um dia do mês.
+# Deve informar também o número de dias em que o valor do faturamento foi superior à média mensal.
+
 import json
 
 dias_fat, valor_total = 0, 0
