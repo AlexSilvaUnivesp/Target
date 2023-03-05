@@ -1,3 +1,5 @@
+# O programa deve informar se o número fornecido pertence ou não à sequencia de Fibonacci.
+
 primeiro = 0
 segundo = 1
 atual = 0
